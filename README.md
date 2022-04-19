@@ -3,3 +3,4 @@
 [時間割ジェネレータ](https://coldtoufu.github.io/timesheet.html)で作成しています
 
 https://katsuyuki-karasawa.github.io/NT25-Timetable/
+Minifyによる高速化に命を懸けています
